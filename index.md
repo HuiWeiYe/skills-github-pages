@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog: Testing
+title: Welcome to my blog. Testing
 ---
+
 
